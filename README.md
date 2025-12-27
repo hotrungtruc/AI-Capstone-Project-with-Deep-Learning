@@ -1,6 +1,6 @@
 # IBM AI Engineering Capstone Project: Deep Learning Applications
 
-![Project Banner]([image_1f2adf.png](https://github.com/hotrungtruc/AI-Capstone-Project-with-Deep-Learning/blob/main/assets/data.png))
+![Project Banner](https://github.com/hotrungtruc/AI-Capstone-Project-with-Deep-Learning/blob/main/assets/data.png?raw=true)
 This repository contains the source code, labs, and final project for the **AI Capstone Project with Deep Learning** course, part of the **IBM AI Engineering Professional Certificate** on Coursera.
 
 The project focuses on mastering Deep Learning frameworks (PyTorch & Keras), implementing Computer Vision architectures (CNNs & Vision Transformers), and building a hybrid model for real-world image classification tasks.
